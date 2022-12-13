@@ -10,7 +10,7 @@ pip install openai
 ```text
     $ export OPENAI_API_KEY=你的OpenAI的API Key
 
-    $ python qa_ai.py -q "请给我一个冒泡排序函数 的例子。"
+    $ python qa_ai.py -q "请给我一个冒泡排序函数的例子。"
     You asked: 请给我一个冒泡排序函数的例子。
     AI answered: 
     AI: 你可以使用这个Python函数来实现冒泡排序：

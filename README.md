@@ -8,7 +8,7 @@ pip install openai
 ## 运行示例
 
 ```text
-    $export OPENAI_API_KEY=你的OpenAI的API Key
+    $ export OPENAI_API_KEY=你的OpenAI的API Key
 
     $ python qa_ai.py -q "请给我一个冒泡排序函数 的例子。"
     You asked: 请给我一个冒泡排序函数的例子。
